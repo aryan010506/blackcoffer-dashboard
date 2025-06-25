@@ -64,7 +64,7 @@ git clone https://github.com/your-username/blackcoffer-dashboard.git
 
 cd blackcoffer-dashboard
 
-3. Start the Backend (FastAPI)
+2. Start the Backend (FastAPI)
    
 bash
 
@@ -80,7 +80,7 @@ python -m uvicorn main:app --reload
 
 Runs on: http://127.0.0.1:8000
 
-5. Start the Frontend (React)
+3. Start the Frontend (React)
 
 bash
 
@@ -97,7 +97,7 @@ npm start
 Runs on: http://localhost:3000
 
 📊 Screenshots
-(Add relevant screenshots of your dashboard UI here)
+![Image](https://github.com/user-attachments/assets/e1118322-7c18-4d4c-a959-8c005f859cb2)
 
 🧠 Learning Outcomes
 Built a full-stack dashboard from scratch
